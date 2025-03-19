@@ -1,1 +1,1 @@
-# OpenCVHandtracker
+# OpenCV Handtracker
