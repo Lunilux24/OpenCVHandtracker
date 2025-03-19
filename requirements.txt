@@ -1,0 +1,3 @@
+PyOpenGL
+opencv-python
+mediapipe
